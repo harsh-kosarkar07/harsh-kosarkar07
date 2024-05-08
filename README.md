@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Kosarkar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="400"  alt="coding" src="https://miro.medium.com/v2/resize:fit:1272/format:webp/1*ZSVmWGcc1weENb0ShawWxw.gif"/>
+<img align="right" width="300"  alt="coding" src="https://miro.medium.com/v2/resize:fit:1272/format:webp/1*ZSVmWGcc1weENb0ShawWxw.gif"/>
 
 
 
